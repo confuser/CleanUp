@@ -1,3 +1,4 @@
-main: me.confuserr.cleanup.CleanUp
+main: me.confuser.cleanup.CleanUp
 name: CleanUp
 version: 1.1
+depend: [OfflinePlayer]

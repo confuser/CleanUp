@@ -1,6 +1,3 @@
-pex:
-  enabled: false
-  file: permissions.yml
 essentials:
   enabled: false
   days: 60
